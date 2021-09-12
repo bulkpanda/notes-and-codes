@@ -5,4 +5,6 @@
                                                                                git add <path> for specific files
 # To commit: git commit -m ''
 # To push first time: git push -f --set-upstream origin master
-#
+# To clone github repo to computer: git clone 'URL'
+# To get status: git status
+# Get history of commits: git log
