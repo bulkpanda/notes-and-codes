@@ -1,2 +1,8 @@
 # To initialise git: git init
+# Then create the empty repository on github page
+# To add the remote repository: git remote add origin <URL>
+# To list the files that have been changed/ the files that you need to commit: git add . -> for all files
+                                                                               git add <path> for specific files
+# To commit: git commit -m ''
+# To push first time: git push -f --set-upstream origin master
 #
