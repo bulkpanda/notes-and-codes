@@ -1,0 +1,2 @@
+# To initialise git: git init
+#
